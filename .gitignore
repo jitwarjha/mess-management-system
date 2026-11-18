@@ -1,0 +1,14 @@
+# Build output
+bin/
+out/
+*.class
+
+# IntelliJ IDEA & IDE files
+.idea/
+*.iml
+.vscode/
+
+# Temporary / OS files
+Thumbs.db
+.DS_Store
+*.log
